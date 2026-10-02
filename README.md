@@ -409,7 +409,7 @@ Todos participam da documentação, das revisões e do vídeo. Cada um é **dono
 
 ### Kanban
 
-Quadro no Trello: **[Kanban Raio-X da Frota](COLE_AQUI_O_LINK_DO_TRELLO)**. Os cartões estão listados em [`docs/kanban_trello.md`](docs/kanban_trello.md).
+Quadro no Trello: **[Kanban Raio-X da Frota](https://trello.com/invite/b/6ac013664778c2d93cf67e11/ATTIb98e94dd8598c779c755ad4894fbd1fe954DC0A1/raio-x-da-frota)**. Os cartões estão listados em [`docs/kanban_trello.md`](docs/kanban_trello.md).
 
 ---
 
@@ -426,7 +426,7 @@ Quadro no Trello: **[Kanban Raio-X da Frota](COLE_AQUI_O_LINK_DO_TRELLO)**. Os c
 ### 🔗 Links do Projeto
 
 * **[Vídeo da Sprint 1](https://youtu.be/XYbYgzpZnPY)**: apresentação da proposta.
-* **[Kanban no Trello](COLE_AQUI_O_LINK_DO_TRELLO)**: tarefas do grupo.
+* **[Kanban no Trello](https://trello.com/invite/b/6ac013664778c2d93cf67e11/ATTIb98e94dd8598c779c755ad4894fbd1fe954DC0A1/raio-x-da-frota)**: tarefas do grupo.
 
 ### 🧠 Decisões Técnicas
 
