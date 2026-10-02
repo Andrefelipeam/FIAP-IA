@@ -16,9 +16,9 @@
 ## Grupo 12
 
 ## 👨‍🎓 Integrantes:
-- Almério Samuel Almeida Pinto (RM574304)
+- [Almério Samuel Almeida Pinto](https://github.com/RM574304) (RM574304)
 - André Felipe Vieira da Silva (RM574808)
-- Helder de Melo Guerreiro (RM575318)
+- [Helder de Melo Guerreiro](https://github.com/helderGuerreiro97) (RM575318)
 - Priscila Fernandes de Carvalho (RM576037)
 
 ## 👩‍🏫 Professores:
@@ -438,7 +438,7 @@ Quadro no Trello: **[Kanban Raio-X da Frota](COLE_AQUI_O_LINK_DO_TRELLO)**. Os c
 
 ### 📢 Observações Gerais
 
-* **Participação na Competição:** [ ] Sim, aceitamos participar / [ ] Não vamos participar.
+* **Participação na Competição:** [ ] Sim, aceitamos participar / [x] Não vamos participar.
 * Todos os dados deste repositório são **simulados** e não representam empresas reais.
 
 ## 🔧 Como executar o código
