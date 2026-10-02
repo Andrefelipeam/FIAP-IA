@@ -1,0 +1,419 @@
+id,data,empresa_id,veiculo_id,categoria,detalhe,fornecedor,valor_rs,litros,preco_litro,km,origem
+1,2026-04-05,E01,E01-V02,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+2,2026-04-05,E01,E01-V08,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+3,2026-04-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),891.91,,,,pdf
+4,2026-04-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),905.99,,,,pdf
+5,2026-04-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),769.31,,,,pdf
+6,2026-04-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),2065.49,,,,pdf
+7,2026-04-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),1716.77,,,,pdf
+8,2026-04-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),1945.77,,,,pdf
+9,2026-04-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),1388.36,,,,pdf
+10,2026-04-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),1508.27,,,,pdf
+11,2026-04-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),4898.39,736.6,6.65,3580.0,planilha
+12,2026-04-15,E01,E01-V01,combustivel,diesel,Posto Rede Comum (fictício),4456.43,736.6,6.05,3580.0,planilha
+13,2026-04-15,E01,E01-V01,imposto,IPVA + licenciamento,SEFAZ/DETRAN,2111.54,,,,pdf
+14,2026-04-15,E01,E01-V02,combustivel,diesel,Posto Estrela (fictício),4545.28,683.5,6.65,3354.0,planilha
+15,2026-04-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4087.33,683.5,5.98,3354.0,planilha
+16,2026-04-15,E01,E01-V02,imposto,IPVA + licenciamento,SEFAZ/DETRAN,3176.34,,,,pdf
+17,2026-04-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5683.76,854.7,6.65,4368.0,planilha
+18,2026-04-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5683.76,854.7,6.65,4368.0,planilha
+19,2026-04-15,E01,E01-V03,imposto,IPVA + licenciamento,SEFAZ/DETRAN,3176.34,,,,pdf
+20,2026-04-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),13388.44,2013.3,6.65,5338.0,planilha
+21,2026-04-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),13388.44,2013.3,6.65,5338.0,planilha
+22,2026-04-15,E01,E01-V04,imposto,IPVA + licenciamento,SEFAZ/DETRAN,4855.9,,,,pdf
+23,2026-04-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),15160.67,2279.8,6.65,5917.0,planilha
+24,2026-04-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),15160.67,2279.8,6.65,5917.0,planilha
+25,2026-04-15,E01,E01-V05,imposto,IPVA + licenciamento,SEFAZ/DETRAN,5209.35,,,,pdf
+26,2026-04-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),17974.28,2702.9,6.65,5762.0,planilha
+27,2026-04-15,E01,E01-V06,combustivel,diesel,Posto Rede Comum (fictício),16757.98,2702.9,6.2,5762.0,planilha
+28,2026-04-15,E01,E01-V06,imposto,IPVA + licenciamento,SEFAZ/DETRAN,3937.18,,,,pdf
+29,2026-04-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),13782.79,2072.6,6.65,5456.0,planilha
+30,2026-04-15,E01,E01-V07,combustivel,diesel,Posto Rede Comum (fictício),12705.04,2072.6,6.13,5456.0,planilha
+31,2026-04-15,E01,E01-V07,imposto,IPVA + licenciamento,SEFAZ/DETRAN,5998.08,,,,pdf
+32,2026-04-15,E01,E01-V08,combustivel,diesel,Posto Rede Comum (fictício),12175.41,1986.2,6.13,5084.0,planilha
+33,2026-04-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),13208.23,1986.2,6.65,5084.0,planilha
+34,2026-04-15,E01,E01-V08,imposto,IPVA + licenciamento,SEFAZ/DETRAN,4527.18,,,,pdf
+35,2026-04-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),2008.72,,,,imagem
+36,2026-04-20,E01,E01-V01,seguro,apólice anual,Seguradora (fictícia),6505.14,,,,pdf
+37,2026-04-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2116.18,,,,imagem
+38,2026-04-20,E01,E01-V02,seguro,apólice anual,Seguradora (fictícia),10054.46,,,,pdf
+39,2026-04-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2682.51,,,,imagem
+40,2026-04-20,E01,E01-V03,seguro,apólice anual,Seguradora (fictícia),10054.46,,,,pdf
+41,2026-04-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),5443.1,,,,imagem
+42,2026-04-20,E01,E01-V04,seguro,apólice anual,Seguradora (fictícia),15652.99,,,,pdf
+43,2026-04-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),6025.53,,,,imagem
+44,2026-04-20,E01,E01-V05,seguro,apólice anual,Seguradora (fictícia),16831.17,,,,pdf
+45,2026-04-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5332.7,,,,imagem
+46,2026-04-20,E01,E01-V06,seguro,apólice anual,Seguradora (fictícia),12590.59,,,,pdf
+47,2026-04-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),5589.25,,,,imagem
+48,2026-04-20,E01,E01-V07,seguro,apólice anual,Seguradora (fictícia),19460.25,,,,pdf
+49,2026-04-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),4898.12,,,,imagem
+50,2026-04-20,E01,E01-V08,seguro,apólice anual,Seguradora (fictícia),14557.28,,,,pdf
+51,2026-04-28,E01,E01-V01,pedagio,tag,Concessionárias,595.25,,,,extrato
+52,2026-04-28,E01,E01-V02,pedagio,tag,Concessionárias,610.24,,,,extrato
+53,2026-04-28,E01,E01-V03,pedagio,tag,Concessionárias,726.86,,,,extrato
+54,2026-04-28,E01,E01-V04,pedagio,tag,Concessionárias,1586.35,,,,extrato
+55,2026-04-28,E01,E01-V05,pedagio,tag,Concessionárias,1816.52,,,,extrato
+56,2026-04-28,E01,E01-V06,pedagio,tag,Concessionárias,1775.57,,,,extrato
+57,2026-04-28,E01,E01-V07,pedagio,manual,Concessionárias,1591.31,,,,imagem
+58,2026-04-28,E01,E01-V08,pedagio,manual,Concessionárias,1567.2,,,,imagem
+59,2026-05-05,E01,E01-V02,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+60,2026-05-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),838.68,,,,pdf
+61,2026-05-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),540.68,,,,pdf
+62,2026-05-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),1092.05,,,,pdf
+63,2026-05-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),1652.64,,,,pdf
+64,2026-05-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),1856.88,,,,pdf
+65,2026-05-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),1299.58,,,,pdf
+66,2026-05-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),2431.17,,,,pdf
+67,2026-05-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),1604.45,,,,pdf
+68,2026-05-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),5098.56,766.7,6.65,3727.0,planilha
+69,2026-05-15,E01,E01-V01,combustivel,diesel,Posto Rede Comum (fictício),4761.21,766.7,6.21,3727.0,planilha
+70,2026-05-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4426.78,731.7,6.05,3590.0,planilha
+71,2026-05-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4507.27,731.7,6.16,3590.0,planilha
+72,2026-05-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5395.81,811.4,6.65,4147.0,planilha
+73,2026-05-15,E01,E01-V03,combustivel,diesel,Posto Rede Comum (fictício),5006.34,811.4,6.17,4147.0,planilha
+74,2026-05-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11749.22,1766.8,6.65,4684.0,planilha
+75,2026-05-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11749.22,1766.8,6.65,4684.0,planilha
+76,2026-05-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),16702.14,2511.6,6.65,6518.0,planilha
+77,2026-05-15,E01,E01-V05,combustivel,diesel,Posto Rede Comum (fictício),15345.88,2511.6,6.11,6518.0,planilha
+78,2026-05-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),15838.97,2381.8,6.65,5078.0,planilha
+79,2026-05-15,E01,E01-V06,combustivel,diesel,Posto Rede Comum (fictício),14457.53,2381.8,6.07,5078.0,planilha
+80,2026-05-15,E01,E01-V07,combustivel,diesel,Posto Rede Comum (fictício),15301.6,2480.0,6.17,6528.0,planilha
+81,2026-05-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),16492.0,2480.0,6.65,6528.0,planilha
+82,2026-05-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),13182.3,1982.3,6.65,5074.0,planilha
+83,2026-05-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),13182.3,1982.3,6.65,5074.0,planilha
+84,2026-05-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),2448.41,,,,imagem
+85,2026-05-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2308.14,,,,imagem
+86,2026-05-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2534.48,,,,imagem
+87,2026-05-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),3954.08,,,,imagem
+88,2026-05-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),7191.98,,,,imagem
+89,2026-05-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5649.05,,,,imagem
+90,2026-05-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),5618.41,,,,imagem
+91,2026-05-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),5462.43,,,,imagem
+92,2026-05-28,E01,E01-V01,pedagio,tag,Concessionárias,640.3,,,,extrato
+93,2026-05-28,E01,E01-V02,pedagio,tag,Concessionárias,611.42,,,,extrato
+94,2026-05-28,E01,E01-V03,pedagio,tag,Concessionárias,690.29,,,,extrato
+95,2026-05-28,E01,E01-V04,pedagio,tag,Concessionárias,1364.99,,,,extrato
+96,2026-05-28,E01,E01-V05,pedagio,tag,Concessionárias,2099.57,,,,extrato
+97,2026-05-28,E01,E01-V06,pedagio,tag,Concessionárias,1716.06,,,,extrato
+98,2026-05-28,E01,E01-V07,pedagio,manual,Concessionárias,2091.01,,,,imagem
+99,2026-05-28,E01,E01-V08,pedagio,manual,Concessionárias,1673.02,,,,imagem
+100,2026-06-05,E01,E01-V02,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+101,2026-06-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),592.12,,,,pdf
+102,2026-06-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),893.25,,,,pdf
+103,2026-06-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),607.94,,,,pdf
+104,2026-06-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),2284.1,,,,pdf
+105,2026-06-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),1654.24,,,,pdf
+106,2026-06-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),1743.79,,,,pdf
+107,2026-06-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),1725.26,,,,pdf
+108,2026-06-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),1576.76,,,,pdf
+109,2026-06-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),5092.57,765.8,6.65,3722.0,planilha
+110,2026-06-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),5092.57,765.8,6.65,3722.0,planilha
+111,2026-06-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4340.66,715.1,6.07,3509.0,planilha
+112,2026-06-15,E01,E01-V02,combustivel,diesel,Posto Estrela (fictício),4755.41,715.1,6.65,3509.0,planilha
+113,2026-06-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5087.25,765.0,6.65,3910.0,planilha
+114,2026-06-15,E01,E01-V03,combustivel,diesel,Posto Rede Comum (fictício),4697.1,765.0,6.14,3910.0,planilha
+115,2026-06-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),13045.97,1961.8,6.65,5201.0,planilha
+116,2026-06-15,E01,E01-V04,combustivel,diesel,Posto Rede Comum (fictício),11966.98,1961.8,6.1,5201.0,planilha
+117,2026-06-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),14765.0,2220.3,6.65,5762.0,planilha
+118,2026-06-15,E01,E01-V05,combustivel,diesel,Posto Rede Comum (fictício),13654.85,2220.3,6.15,5762.0,planilha
+119,2026-06-15,E01,E01-V06,combustivel,diesel,Posto Rede Comum (fictício),15542.54,2498.8,6.22,5328.0,planilha
+120,2026-06-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),16617.02,2498.8,6.65,5328.0,planilha
+121,2026-06-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),15586.27,2343.8,6.65,6170.0,planilha
+122,2026-06-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),15586.27,2343.8,6.65,6170.0,planilha
+123,2026-06-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),14172.48,2131.2,6.65,5454.0,planilha
+124,2026-06-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),14172.48,2131.2,6.65,5454.0,planilha
+125,2026-06-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),2398.73,,,,imagem
+126,2026-06-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2321.2,,,,imagem
+127,2026-06-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2615.8,,,,imagem
+128,2026-06-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),4990.4,,,,imagem
+129,2026-06-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),5483.55,,,,imagem
+130,2026-06-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5885.49,,,,imagem
+131,2026-06-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),6175.74,,,,imagem
+132,2026-06-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),5770.02,,,,imagem
+133,2026-06-28,E01,E01-V01,pedagio,tag,Concessionárias,704.69,,,,extrato
+134,2026-06-28,E01,E01-V02,pedagio,tag,Concessionárias,633.52,,,,extrato
+135,2026-06-28,E01,E01-V03,pedagio,tag,Concessionárias,636.92,,,,extrato
+136,2026-06-28,E01,E01-V04,pedagio,tag,Concessionárias,1558.3,,,,extrato
+137,2026-06-28,E01,E01-V05,pedagio,tag,Concessionárias,1694.67,,,,extrato
+138,2026-06-28,E01,E01-V06,pedagio,tag,Concessionárias,1575.89,,,,extrato
+139,2026-06-28,E01,E01-V07,pedagio,manual,Concessionárias,2164.02,,,,imagem
+140,2026-06-28,E01,E01-V08,pedagio,manual,Concessionárias,1880.33,,,,imagem
+141,2026-07-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),873.21,,,,pdf
+142,2026-07-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),741.21,,,,pdf
+143,2026-07-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),674.63,,,,pdf
+144,2026-07-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),1916.77,,,,pdf
+145,2026-07-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),1575.15,,,,pdf
+146,2026-07-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),1911.33,,,,pdf
+147,2026-07-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),2057.46,,,,pdf
+148,2026-07-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),2049.86,,,,pdf
+149,2026-07-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),4649.02,699.1,6.65,3398.0,planilha
+150,2026-07-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),4649.02,699.1,6.65,3398.0,planilha
+151,2026-07-15,E01,E01-V02,combustivel,diesel,Posto Estrela (fictício),5113.85,769.0,6.65,3774.0,planilha
+152,2026-07-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4675.52,769.0,6.08,3774.0,planilha
+153,2026-07-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5332.64,801.9,6.65,4098.0,planilha
+154,2026-07-15,E01,E01-V03,combustivel,diesel,Posto Rede Comum (fictício),4875.55,801.9,6.08,4098.0,planilha
+155,2026-07-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11960.03,1798.5,6.65,4768.0,planilha
+156,2026-07-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11960.03,1798.5,6.65,4768.0,planilha
+157,2026-07-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),14135.9,2125.7,6.65,5517.0,planilha
+158,2026-07-15,E01,E01-V05,combustivel,diesel,Posto Rede Comum (fictício),13200.6,2125.7,6.21,5517.0,planilha
+159,2026-07-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),17673.04,2657.6,6.65,5666.0,planilha
+160,2026-07-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),17673.04,2657.6,6.65,5666.0,planilha
+161,2026-07-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),13837.99,2080.9,6.65,5478.0,planilha
+162,2026-07-15,E01,E01-V07,combustivel,diesel,Posto Rede Comum (fictício),12880.77,2080.9,6.19,5478.0,planilha
+163,2026-07-15,E01,E01-V08,combustivel,diesel,Posto Rede Comum (fictício),12301.87,2016.7,6.1,5162.0,planilha
+164,2026-07-15,E01,E01-V08,combustivel,diesel,Posto Rede Comum (fictício),12201.03,2016.7,6.05,5162.0,planilha
+165,2026-07-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),1905.39,,,,imagem
+166,2026-07-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2739.31,,,,imagem
+167,2026-07-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2924.26,,,,imagem
+168,2026-07-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),4358.83,,,,imagem
+169,2026-07-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),5989.43,,,,imagem
+170,2026-07-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5550.48,,,,imagem
+171,2026-07-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),4646.73,,,,imagem
+172,2026-07-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),4707.48,,,,imagem
+173,2026-07-28,E01,E01-V01,pedagio,tag,Concessionárias,610.99,,,,extrato
+174,2026-07-28,E01,E01-V02,pedagio,tag,Concessionárias,732.32,,,,extrato
+175,2026-07-28,E01,E01-V03,pedagio,tag,Concessionárias,782.64,,,,extrato
+176,2026-07-28,E01,E01-V04,pedagio,tag,Concessionárias,1627.52,,,,extrato
+177,2026-07-28,E01,E01-V05,pedagio,tag,Concessionárias,1869.64,,,,extrato
+178,2026-07-28,E01,E01-V06,pedagio,tag,Concessionárias,1741.29,,,,extrato
+179,2026-07-28,E01,E01-V07,pedagio,manual,Concessionárias,1642.01,,,,imagem
+180,2026-07-28,E01,E01-V08,pedagio,manual,Concessionárias,1510.32,,,,imagem
+181,2026-08-05,E01,E01-V01,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+182,2026-08-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),738.78,,,,pdf
+183,2026-08-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),583.81,,,,pdf
+184,2026-08-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),824.85,,,,pdf
+185,2026-08-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),1621.83,,,,pdf
+186,2026-08-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),1838.42,,,,pdf
+187,2026-08-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),2459.02,,,,pdf
+188,2026-08-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),2370.81,,,,pdf
+189,2026-08-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),2047.01,,,,pdf
+190,2026-08-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),4378.36,658.4,6.65,3200.0,planilha
+191,2026-08-15,E01,E01-V01,combustivel,diesel,Posto Rede Comum (fictício),3963.57,658.4,6.02,3200.0,planilha
+192,2026-08-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4302.6,710.0,6.06,3484.0,planilha
+193,2026-08-15,E01,E01-V02,combustivel,diesel,Posto Estrela (fictício),4721.5,710.0,6.65,3484.0,planilha
+194,2026-08-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5489.58,825.5,6.65,4219.0,planilha
+195,2026-08-15,E01,E01-V03,combustivel,diesel,Posto Rede Comum (fictício),5101.59,825.5,6.18,4219.0,planilha
+196,2026-08-15,E01,E01-V04,combustivel,diesel,Posto Rede Comum (fictício),12326.4,2054.4,6.0,5446.0,planilha
+197,2026-08-15,E01,E01-V04,combustivel,diesel,Posto Rede Comum (fictício),12737.28,2054.4,6.2,5446.0,planilha
+198,2026-08-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),14657.26,2204.1,6.65,5720.0,planilha
+199,2026-08-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),14657.26,2204.1,6.65,5720.0,planilha
+200,2026-08-15,E01,E01-V06,combustivel,diesel,Posto Rede Comum (fictício),16238.4,2706.4,6.0,5770.0,planilha
+201,2026-08-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),17997.56,2706.4,6.65,5770.0,planilha
+202,2026-08-15,E01,E01-V07,combustivel,diesel,Posto Rede Comum (fictício),13978.14,2265.5,6.17,5964.0,planilha
+203,2026-08-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),15065.58,2265.5,6.65,5964.0,planilha
+204,2026-08-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),12210.73,1836.2,6.65,4700.0,planilha
+205,2026-08-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),12210.73,1836.2,6.65,4700.0,planilha
+206,2026-08-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),1999.26,,,,imagem
+207,2026-08-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2154.34,,,,imagem
+208,2026-08-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2561.69,,,,imagem
+209,2026-08-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),6150.58,,,,imagem
+210,2026-08-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),5896.64,,,,imagem
+211,2026-08-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5610.33,,,,imagem
+212,2026-08-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),6207.25,,,,imagem
+213,2026-08-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),4385.37,,,,imagem
+214,2026-08-28,E01,E01-V01,pedagio,tag,Concessionárias,586.57,,,,extrato
+215,2026-08-28,E01,E01-V02,pedagio,tag,Concessionárias,597.33,,,,extrato
+216,2026-08-28,E01,E01-V03,pedagio,tag,Concessionárias,775.52,,,,extrato
+217,2026-08-28,E01,E01-V04,pedagio,tag,Concessionárias,1792.55,,,,extrato
+218,2026-08-28,E01,E01-V05,pedagio,tag,Concessionárias,1818.11,,,,extrato
+219,2026-08-28,E01,E01-V06,pedagio,tag,Concessionárias,2030.71,,,,extrato
+220,2026-08-28,E01,E01-V07,pedagio,manual,Concessionárias,1938.26,,,,imagem
+221,2026-08-28,E01,E01-V08,pedagio,manual,Concessionárias,1602.24,,,,imagem
+222,2026-09-05,E01,E01-V02,multa,excesso de velocidade,Órgão de trânsito,130.16,,,,imagem
+223,2026-09-10,E01,E01-V01,manutencao,preventiva,Oficina (fictícia),604.26,,,,pdf
+224,2026-09-10,E01,E01-V02,manutencao,preventiva,Oficina (fictícia),564.04,,,,pdf
+225,2026-09-10,E01,E01-V03,manutencao,preventiva,Oficina (fictícia),941.0,,,,pdf
+226,2026-09-10,E01,E01-V04,manutencao,preventiva,Oficina (fictícia),1388.54,,,,pdf
+227,2026-09-10,E01,E01-V05,manutencao,preventiva,Oficina (fictícia),2326.0,,,,pdf
+228,2026-09-10,E01,E01-V06,manutencao,preventiva,Oficina (fictícia),1469.81,,,,pdf
+229,2026-09-10,E01,E01-V07,manutencao,preventiva,Oficina (fictícia),2446.03,,,,pdf
+230,2026-09-10,E01,E01-V08,manutencao,preventiva,Oficina (fictícia),1332.19,,,,pdf
+231,2026-09-15,E01,E01-V01,combustivel,diesel,Posto Rede Comum (fictício),4719.57,773.7,6.1,3761.0,planilha
+232,2026-09-15,E01,E01-V01,combustivel,diesel,Posto Estrela (fictício),5145.11,773.7,6.65,3761.0,planilha
+233,2026-09-15,E01,E01-V02,combustivel,diesel,Posto Rede Comum (fictício),4030.91,670.7,6.01,3291.0,planilha
+234,2026-09-15,E01,E01-V02,combustivel,diesel,Posto Estrela (fictício),4460.16,670.7,6.65,3291.0,planilha
+235,2026-09-15,E01,E01-V03,combustivel,diesel,Posto Estrela (fictício),5300.72,797.1,6.65,4074.0,planilha
+236,2026-09-15,E01,E01-V03,combustivel,diesel,Posto Rede Comum (fictício),4846.37,797.1,6.08,4074.0,planilha
+237,2026-09-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11671.42,1755.1,6.65,4653.0,planilha
+238,2026-09-15,E01,E01-V04,combustivel,diesel,Posto Estrela (fictício),11671.42,1755.1,6.65,4653.0,planilha
+239,2026-09-15,E01,E01-V05,combustivel,diesel,Posto Estrela (fictício),16231.99,2440.9,6.65,6335.0,planilha
+240,2026-09-15,E01,E01-V05,combustivel,diesel,Posto Rede Comum (fictício),14938.31,2440.9,6.12,6335.0,planilha
+241,2026-09-15,E01,E01-V06,combustivel,diesel,Posto Rede Comum (fictício),15835.8,2639.3,6.0,5627.0,planilha
+242,2026-09-15,E01,E01-V06,combustivel,diesel,Posto Estrela (fictício),17551.35,2639.3,6.65,5627.0,planilha
+243,2026-09-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),15644.12,2352.5,6.65,6193.0,planilha
+244,2026-09-15,E01,E01-V07,combustivel,diesel,Posto Estrela (fictício),15644.12,2352.5,6.65,6193.0,planilha
+245,2026-09-15,E01,E01-V08,combustivel,diesel,Posto Rede Comum (fictício),11822.08,1963.8,6.02,5026.0,planilha
+246,2026-09-15,E01,E01-V08,combustivel,diesel,Posto Estrela (fictício),13059.27,1963.8,6.65,5026.0,planilha
+247,2026-09-20,E01,E01-V01,manutencao,corretiva,Oficina (fictícia),2630.61,,,,imagem
+248,2026-09-20,E01,E01-V02,manutencao,corretiva,Oficina (fictícia),2321.08,,,,imagem
+249,2026-09-20,E01,E01-V03,manutencao,corretiva,Oficina (fictícia),2756.52,,,,imagem
+250,2026-09-20,E01,E01-V04,manutencao,corretiva,Oficina (fictícia),4695.78,,,,imagem
+251,2026-09-20,E01,E01-V05,manutencao,corretiva,Oficina (fictícia),5346.28,,,,imagem
+252,2026-09-20,E01,E01-V06,manutencao,corretiva,Oficina (fictícia),5561.37,,,,imagem
+253,2026-09-20,E01,E01-V07,manutencao,corretiva,Oficina (fictícia),5630.4,,,,imagem
+254,2026-09-20,E01,E01-V08,manutencao,corretiva,Oficina (fictícia),6114.3,,,,imagem
+255,2026-09-28,E01,E01-V01,pedagio,tag,Concessionárias,686.69,,,,extrato
+256,2026-09-28,E01,E01-V02,pedagio,tag,Concessionárias,556.41,,,,extrato
+257,2026-09-28,E01,E01-V03,pedagio,tag,Concessionárias,696.34,,,,extrato
+258,2026-09-28,E01,E01-V04,pedagio,tag,Concessionárias,1419.41,,,,extrato
+259,2026-09-28,E01,E01-V05,pedagio,tag,Concessionárias,1860.04,,,,extrato
+260,2026-09-28,E01,E01-V06,pedagio,tag,Concessionárias,1691.95,,,,extrato
+261,2026-09-28,E01,E01-V07,pedagio,manual,Concessionárias,1836.73,,,,imagem
+262,2026-09-28,E01,E01-V08,pedagio,manual,Concessionárias,1695.85,,,,imagem
+263,2026-04-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),721.05,115.0,6.27,1284.0,planilha
+264,2026-04-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),729.1,115.0,6.34,1284.0,planilha
+265,2026-04-15,E02,E02-V01,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1690.51,,,,pdf
+266,2026-04-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),752.03,121.1,6.21,1324.0,planilha
+267,2026-04-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),753.24,121.1,6.22,1324.0,planilha
+268,2026-04-15,E02,E02-V02,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1483.74,,,,pdf
+269,2026-04-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),672.32,107.4,6.26,1168.0,planilha
+270,2026-04-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),686.29,107.4,6.39,1168.0,planilha
+271,2026-04-15,E02,E02-V03,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1391.08,,,,pdf
+272,2026-04-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),689.07,111.5,6.18,1211.0,planilha
+273,2026-04-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),714.72,111.5,6.41,1211.0,planilha
+274,2026-04-15,E02,E02-V04,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1929.59,,,,pdf
+275,2026-04-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),601.02,94.5,6.36,1070.0,planilha
+276,2026-04-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),593.46,94.5,6.28,1070.0,planilha
+277,2026-04-15,E02,E02-V05,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1690.51,,,,pdf
+278,2026-04-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),760.74,122.7,6.2,1340.0,planilha
+279,2026-04-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),774.24,122.7,6.31,1340.0,planilha
+280,2026-04-15,E02,E02-V06,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1583.38,,,,pdf
+281,2026-04-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),715.64,115.8,6.18,1286.0,planilha
+282,2026-04-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),729.54,115.8,6.3,1286.0,planilha
+283,2026-04-15,E02,E02-V07,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1304.9,,,,pdf
+284,2026-04-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),709.29,111.7,6.35,1188.0,planilha
+285,2026-04-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),712.65,111.7,6.38,1188.0,planilha
+286,2026-04-15,E02,E02-V08,imposto,IPVA + licenciamento,SEFAZ/DETRAN,1391.08,,,,pdf
+287,2026-04-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),956.28,156.0,6.13,1424.0,planilha
+288,2026-04-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),945.36,156.0,6.06,1424.0,planilha
+289,2026-04-15,E02,E02-V09,imposto,IPVA + licenciamento,SEFAZ/DETRAN,3377.43,,,,pdf
+290,2026-04-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),953.26,154.0,6.19,1442.0,planilha
+291,2026-04-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),931.7,154.0,6.05,1442.0,planilha
+292,2026-04-15,E02,E02-V10,imposto,IPVA + licenciamento,SEFAZ/DETRAN,3377.43,,,,pdf
+293,2026-04-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),855.97,142.9,5.99,1358.0,planilha
+294,2026-04-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),887.41,142.9,6.21,1358.0,planilha
+295,2026-04-15,E02,E02-V11,imposto,IPVA + licenciamento,SEFAZ/DETRAN,2566.8,,,,pdf
+296,2026-04-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),860.03,143.1,6.01,1350.0,planilha
+297,2026-04-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),885.79,143.1,6.19,1350.0,planilha
+298,2026-04-15,E02,E02-V12,imposto,IPVA + licenciamento,SEFAZ/DETRAN,2398.33,,,,pdf
+299,2026-05-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),621.13,99.7,6.23,1113.0,planilha
+300,2026-05-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),629.11,99.7,6.31,1113.0,planilha
+301,2026-05-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),815.22,131.7,6.19,1442.0,planilha
+302,2026-05-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),820.49,131.7,6.23,1442.0,planilha
+303,2026-05-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),675.86,106.1,6.37,1155.0,planilha
+304,2026-05-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),677.98,106.1,6.39,1155.0,planilha
+305,2026-05-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),735.62,117.7,6.25,1278.0,planilha
+306,2026-05-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),743.86,117.7,6.32,1278.0,planilha
+307,2026-05-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),656.19,103.5,6.34,1172.0,planilha
+308,2026-05-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),664.47,103.5,6.42,1172.0,planilha
+309,2026-05-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),787.79,122.9,6.41,1342.0,planilha
+310,2026-05-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),784.1,122.9,6.38,1342.0,planilha
+311,2026-05-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),691.54,111.9,6.18,1243.0,planilha
+312,2026-05-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),702.73,111.9,6.28,1243.0,planilha
+313,2026-05-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),792.5,126.8,6.25,1349.0,planilha
+314,2026-05-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),796.3,126.8,6.28,1349.0,planilha
+315,2026-05-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),961.93,154.9,6.21,1415.0,planilha
+316,2026-05-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),954.18,154.9,6.16,1415.0,planilha
+317,2026-05-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1032.86,167.4,6.17,1568.0,planilha
+318,2026-05-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1032.86,167.4,6.17,1568.0,planilha
+319,2026-05-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),798.47,133.3,5.99,1268.0,planilha
+320,2026-05-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),805.13,133.3,6.04,1268.0,planilha
+321,2026-05-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),872.91,143.1,6.1,1350.0,planilha
+322,2026-05-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),872.91,143.1,6.1,1350.0,planilha
+323,2026-06-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),641.28,103.1,6.22,1151.0,planilha
+324,2026-06-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),657.78,103.1,6.38,1151.0,planilha
+325,2026-06-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),735.84,116.8,6.3,1278.0,planilha
+326,2026-06-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),738.18,116.8,6.32,1278.0,planilha
+327,2026-06-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),682.24,106.6,6.4,1160.0,planilha
+328,2026-06-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),673.71,106.6,6.32,1160.0,planilha
+329,2026-06-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),668.93,107.2,6.24,1164.0,planilha
+330,2026-06-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),680.72,107.2,6.35,1164.0,planilha
+331,2026-06-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),701.88,112.3,6.25,1272.0,planilha
+332,2026-06-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),714.23,112.3,6.36,1272.0,planilha
+333,2026-06-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),659.6,105.2,6.27,1148.0,planilha
+334,2026-06-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),651.19,105.2,6.19,1148.0,planilha
+335,2026-06-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),739.24,116.6,6.34,1295.0,planilha
+336,2026-06-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),726.42,116.6,6.23,1295.0,planilha
+337,2026-06-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),676.24,107.0,6.32,1138.0,planilha
+338,2026-06-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),688.01,107.0,6.43,1138.0,planilha
+339,2026-06-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),960.13,158.7,6.05,1450.0,planilha
+340,2026-06-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),983.94,158.7,6.2,1450.0,planilha
+341,2026-06-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),994.5,163.3,6.09,1530.0,planilha
+342,2026-06-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1015.73,163.3,6.22,1530.0,planilha
+343,2026-06-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),805.1,132.2,6.09,1257.0,planilha
+344,2026-06-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),806.42,132.2,6.1,1257.0,planilha
+345,2026-06-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),933.89,153.6,6.08,1450.0,planilha
+346,2026-06-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),947.71,153.6,6.17,1450.0,planilha
+347,2026-07-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),765.4,121.3,6.31,1354.0,planilha
+348,2026-07-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),775.11,121.3,6.39,1354.0,planilha
+349,2026-07-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),753.92,121.6,6.2,1331.0,planilha
+350,2026-07-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),758.78,121.6,6.24,1331.0,planilha
+351,2026-07-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),713.64,114.0,6.26,1240.0,planilha
+352,2026-07-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),718.2,114.0,6.3,1240.0,planilha
+353,2026-07-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),783.88,122.1,6.42,1326.0,planilha
+354,2026-07-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),772.89,122.1,6.33,1326.0,planilha
+355,2026-07-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),672.95,107.5,6.26,1217.0,planilha
+356,2026-07-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),667.58,107.5,6.21,1217.0,planilha
+357,2026-07-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),677.11,106.8,6.34,1167.0,planilha
+358,2026-07-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),678.18,106.8,6.35,1167.0,planilha
+359,2026-07-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),724.28,115.7,6.26,1285.0,planilha
+360,2026-07-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),739.32,115.7,6.39,1285.0,planilha
+361,2026-07-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),758.4,120.0,6.32,1276.0,planilha
+362,2026-07-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),752.4,120.0,6.27,1276.0,planilha
+363,2026-07-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),903.55,149.1,6.06,1362.0,planilha
+364,2026-07-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),924.42,149.1,6.2,1362.0,planilha
+365,2026-07-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1058.02,171.2,6.18,1603.0,planilha
+366,2026-07-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1061.44,171.2,6.2,1603.0,planilha
+367,2026-07-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),834.41,139.3,5.99,1325.0,planilha
+368,2026-07-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),837.19,139.3,6.01,1325.0,planilha
+369,2026-07-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),1025.59,169.8,6.04,1602.0,planilha
+370,2026-07-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),1028.99,169.8,6.06,1602.0,planilha
+371,2026-08-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),753.89,121.4,6.21,1355.0,planilha
+372,2026-08-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),763.61,121.4,6.29,1355.0,planilha
+373,2026-08-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),824.17,130.2,6.33,1424.0,planilha
+374,2026-08-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),825.47,130.2,6.34,1424.0,planilha
+375,2026-08-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),664.64,107.2,6.2,1166.0,planilha
+376,2026-08-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),672.14,107.2,6.27,1166.0,planilha
+377,2026-08-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),753.57,118.3,6.37,1285.0,planilha
+378,2026-08-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),757.12,118.3,6.4,1285.0,planilha
+379,2026-08-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),592.41,93.0,6.37,1053.0,planilha
+380,2026-08-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),585.9,93.0,6.3,1053.0,planilha
+381,2026-08-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),780.86,122.2,6.39,1335.0,planilha
+382,2026-08-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),777.19,122.2,6.36,1335.0,planilha
+383,2026-08-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),655.38,103.7,6.32,1152.0,planilha
+384,2026-08-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),650.2,103.7,6.27,1152.0,planilha
+385,2026-08-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),786.87,124.9,6.3,1328.0,planilha
+386,2026-08-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),775.63,124.9,6.21,1328.0,planilha
+387,2026-08-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),975.13,158.3,6.16,1446.0,planilha
+388,2026-08-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),968.8,158.3,6.12,1446.0,planilha
+389,2026-08-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1052.9,174.9,6.02,1638.0,planilha
+390,2026-08-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),1070.39,174.9,6.12,1638.0,planilha
+391,2026-08-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),846.99,141.4,5.99,1345.0,planilha
+392,2026-08-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),869.61,141.4,6.15,1345.0,planilha
+393,2026-08-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),919.27,150.7,6.1,1422.0,planilha
+394,2026-08-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),925.3,150.7,6.14,1422.0,planilha
+395,2026-09-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),669.14,108.1,6.19,1207.0,planilha
+396,2026-09-15,E02,E02-V01,combustivel,gasolina,Posto Rede Comum (fictício),687.52,108.1,6.36,1207.0,planilha
+397,2026-09-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),801.98,125.9,6.37,1378.0,planilha
+398,2026-09-15,E02,E02-V02,combustivel,gasolina,Posto Rede Comum (fictício),779.32,125.9,6.19,1378.0,planilha
+399,2026-09-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),730.48,115.4,6.33,1256.0,planilha
+400,2026-09-15,E02,E02-V03,combustivel,gasolina,Posto Rede Comum (fictício),717.79,115.4,6.22,1256.0,planilha
+401,2026-09-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),796.72,124.1,6.42,1348.0,planilha
+402,2026-09-15,E02,E02-V04,combustivel,gasolina,Posto Rede Comum (fictício),790.52,124.1,6.37,1348.0,planilha
+403,2026-09-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),706.37,112.3,6.29,1272.0,planilha
+404,2026-09-15,E02,E02-V05,combustivel,gasolina,Posto Rede Comum (fictício),720.97,112.3,6.42,1272.0,planilha
+405,2026-09-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),760.75,122.9,6.19,1342.0,planilha
+406,2026-09-15,E02,E02-V06,combustivel,gasolina,Posto Rede Comum (fictício),765.67,122.9,6.23,1342.0,planilha
+407,2026-09-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),660.48,103.2,6.4,1146.0,planilha
+408,2026-09-15,E02,E02-V07,combustivel,gasolina,Posto Rede Comum (fictício),641.9,103.2,6.22,1146.0,planilha
+409,2026-09-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),694.52,112.2,6.19,1194.0,planilha
+410,2026-09-15,E02,E02-V08,combustivel,gasolina,Posto Rede Comum (fictício),697.88,112.2,6.22,1194.0,planilha
+411,2026-09-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),981.92,162.3,6.05,1482.0,planilha
+412,2026-09-15,E02,E02-V09,combustivel,diesel,Posto Rede Comum (fictício),980.29,162.3,6.04,1482.0,planilha
+413,2026-09-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),934.51,152.2,6.14,1426.0,planilha
+414,2026-09-15,E02,E02-V10,combustivel,diesel,Posto Rede Comum (fictício),945.16,152.2,6.21,1426.0,planilha
+415,2026-09-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),824.62,136.3,6.05,1296.0,planilha
+416,2026-09-15,E02,E02-V11,combustivel,diesel,Posto Rede Comum (fictício),827.34,136.3,6.07,1296.0,planilha
+417,2026-09-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),910.82,150.3,6.06,1418.0,planilha
+418,2026-09-15,E02,E02-V12,combustivel,diesel,Posto Rede Comum (fictício),933.36,150.3,6.21,1418.0,planilha
