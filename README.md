@@ -2,7 +2,8 @@
 
 <p align="center">
 
-[![FIAP - Faculdade de Informática e Administração Paulista](../../assets/logo-fiap.png)](https://www.fiap.com.br/)
+<img width="371" height="125" alt="image" src="https://github.com/user-attachments/assets/d7f031c8-f6b4-4a30-987b-12f8bbd8ecf6" />
+
 
 </p>
 
