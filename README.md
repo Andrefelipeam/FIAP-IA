@@ -425,7 +425,7 @@ Quadro no Trello: **[Kanban Raio-X da Frota](COLE_AQUI_O_LINK_DO_TRELLO)**. Os c
 
 ### 🔗 Links do Projeto
 
-* **[Vídeo da Sprint 1](COLE_AQUI_O_LINK_DO_VIDEO)**: apresentação da proposta.
+* **[Vídeo da Sprint 1](https://youtu.be/XYbYgzpZnPY)**: apresentação da proposta.
 * **[Kanban no Trello](COLE_AQUI_O_LINK_DO_TRELLO)**: tarefas do grupo.
 
 ### 🧠 Decisões Técnicas
